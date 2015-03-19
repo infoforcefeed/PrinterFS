@@ -19,3 +19,18 @@ Distributed filesystem.
 * Simple rehashing/auto-discovery. If a new node comes online, make sure files
   that are now in it's keyspace are moved to it from the nodes previous.
 * Compression for over-the-wire transfers (LZ4 is pretty easy)
+
+# Usage
+
+## Installation
+
+```
+make
+sudo insmod PrinterFS.ko
+```
+
+## Uninstallation
+
+```
+sudo rmmod PrinterFS
+```
