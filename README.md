@@ -24,6 +24,14 @@ Distributed filesystem.
 
 ## Installation
 
+Make sure you have your kernel headers available. On Ubuntu, you can do:
+
+```
+sudo apt-get install linux-headers-$(uname -r)
+```
+
+Then you should just be able to:
+
 ```
 make
 sudo insmod PrinterFS.ko
