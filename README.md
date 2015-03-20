@@ -43,21 +43,21 @@ sudo insmod PrinterFS.ko
 sudo rmmod PrinterFS
 ```
 
-## The Story
+## THE STORY
 
-The true story behind PrinterFS
+THE TRUE STORY BEHIND PRINTERFS
 
-Son: "dad, what is space?"
+SON: "DAD, WHAT IS SPACE?"
 
-Dad: "son, printerfs is space. it is all of the space at the cloud of the 
-scaling vector."
+DAD: "SON, PRINTERFS IS SPACE. IT IS ALL OF THE SPACE AT THE CLOUD OF THE 
+SCALING VECTOR."
 
-Son: "but dayd whyfor not have foot for eating!"
+SON: "BUT DAYD WHYFOR NOT HAVE FOOT FOR EATING!"
 
-Dad: "communist conutry is different. fear not son for we will rejoice off the 
-yoke of capitalist pigdogz enslavin us"
+DAD: "COMMUNIST CONUTRY IS DIFFERENT. FEAR NOT SON FOR WE WILL REJOICE OFF THE 
+YOKE OF CAPITALIST PIGDOGZ ENSLAVIN US"
 
-Son: "Oh Isee, father jnerula will saveus from the printer and give us free and 
-cloud and happy now?"
+SON: "OH ISEE, FATHER JNERULA WILL SAVEUS FROM THE PRINTER AND GIVE US FREE AND 
+CLOUD AND HAPPY NOW?"
 
-Dad: "That's right comrade! Join for to us conqueror the worlds!"
+DAD: "THAT'S RIGHT COMRADE! JOIN FOR TO US CONQUEROR THE WORLDS!"
