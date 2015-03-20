@@ -15,16 +15,16 @@ Distributed filesystem.
 
 ## Nice-to-haves
 
-* In-memory LRÜ cache for files and metadata on every node. Should be configurable.
+* In-memory LRU cache for files and metadata on every node. Should be configurable.
 * Simple rehashing/auto-discovery. If a new node comes online, make sure files
   that are now in it's keyspace are moved to it from the nodes previous.
 * Compression for over-the-wire transfers (LZ4 is pretty easy)
 
-# Üsage
+# Usage
 
 ## Installation
 
-Make sure you have your kernel headers available. On Übuntu, you can do:
+Make sure you have your kernel headers available. On Ubuntu, you can do:
 
 ```
 sudo apt-get install linux-headers-$(uname -r)
@@ -37,7 +37,7 @@ make
 sudo insmod PrinterFS.ko
 ```
 
-## Üninstallation
+## Uninstallation
 
 ```
 sudo rmmod PrinterFS
@@ -45,20 +45,19 @@ sudo rmmod PrinterFS
 
 ## THE STORY
 
-THE TRÜE STORY BEHIND PRINTERFS
+THE TRUE STORY BEHIND PRINTERFS
 
 SON: "DAD, WHAT IS SPACE?"
 
-DAD: "SON, PRINTERFS IS SPACE. IT IS ALL OF THE SPACE AT THE CLOÜD OF THE 
+DAD: "SON, PRINTERFS IS SPACE. IT IS ALL OF THE SPACE AT THE CLOUD OF THE 
 SCALING VECTOR."
 
-SON: "BÜT DAYD WHYFOR NOT HAVE FOOT FOR EATING!"
+SON: "BUT DAYD WHYFOR NOT HAVE FOOT FOR EATING!"
 
-DAD: "COMMÜNIST CONÜTRY IS DIFFERENT. FEAR NOT SON FOR WE WILL REJOICE OFF THE 
-YOKE OF CAPITALIST PIGDOGZ ENSLAVIN ÜS"
+DAD: "COMMUNIST CONUTRY IS DIFFERENT. FEAR NOT SON FOR WE WILL REJOICE OFF THE 
+YOKE OF CAPITALIST PIGDOGZ ENSLAVIN US"
 
-SON: "OH ISEE, FATHER JNERÜLA WILL SAVEÜS FROM THE PRINTER AND GIVE ÜS FREE AND 
-CLOÜD AND HAPPY NOW?"
+SON: "OH ISEE, FATHER JNERULA WILL SAVEUS FROM THE PRINTER AND GIVE US FREE AND 
+CLOUD AND HAPPY NOW?"
 
-DAD: "THAT'S RIGHT COMRADE! JOIN FOR TO ÜS CONQÜEROR THE WORLDS! HE WHO WAITS 
-BEHIND THE WALL ZALGO HE IS COMEING HELP FOR OÜR HOME AND GLODY AND SAFETYNESS"
+DAD: "THAT'S RIGHT COMRADE! JOIN FOR TO US CONQUEROR THE WORLDS!"
