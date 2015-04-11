@@ -1,3 +1,11 @@
 *.o
 *.sw[op]
-printerfs
+.*.ko.cmd
+.*.mod.o.cmd
+.*.o.cmd
+.tmp_versions/
+Module.symvers
+PrinterFS.ko
+PrinterFS.mod.c
+modules.order
+src/.*.o.cmd
