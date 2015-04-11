@@ -12,6 +12,9 @@ int printerfs_fill_sb(struct super_block *sb, void *data, int silent) {
      * In addition, here we can spin up a kernel thread to handle any incoming
      * connections. See the following for details on kernel threads:
      * https://www.kernel.org/doc/htmldocs/device-drivers/API-kthread-run.html
+     *
+     * Some resources on kernel networking:
+     * http://www.linuxjournal.com/article/7660?page=0,2
      */
     return 0;
 }
